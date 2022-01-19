@@ -1,0 +1,25 @@
+{
+  "name": "ng-msa-pa-igrejas-client",
+  "version": "1.0.0-RC1",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estevaoi/ng-msa-pa-igrejas-client.git"
+  },
+  "author": "Pablo Flanmarion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estevaoi/ng-msa-pa-igrejas-client/issues"
+  },
+  "homepage": "https://github.com/estevaoi/ng-msa-pa-igrejas-client#readme",
+  "dependencies": {
+    "axios": "^0.21.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
